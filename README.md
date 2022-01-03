@@ -1,0 +1,2 @@
+# React map Netherlands
+ A basic map of the Netherlands created with react-simple maps. Run 'npm install' and 'npm start' in the root directory to start the React app. Feel free to use wherever you want.   

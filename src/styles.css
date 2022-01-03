@@ -1,0 +1,12 @@
+.map-container{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    position: relative;
+}
+
+.map-container > svg{
+    height: 100%;
+    position: absolute;
+    top: 0;
+}
